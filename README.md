@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Penguin tech and software
 
 You can use the [editor on GitHub](https://github.com/Drewsdodger/Penguin/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
